@@ -1,4 +1,4 @@
-![image info](./cover.png)
+![image info](./cover.jpg)
 
 # Think Python 2nd Edition Solutions
 
