@@ -9,11 +9,11 @@ All solutions are now in jupyter format.
 - [x] [Exercise 1-2](./Exercises/E-01/exercise%201-2.ipynb)
 
 ## Chapter 2
-- [x] [Exercise 2-1](./Exercises/E-01/exercise%202-1.ipynb)
-- [x] [Exercise 2-2](./Exercises/E-01/exercise%202-2.ipynb)
+- [x] [Exercise 2-1](./Exercises/E-02/exercise%202-1.ipynb)
+- [x] [Exercise 2-2](./Exercises/E-02/exercise%202-2.ipynb)
 
 ## Chapter 3
-- [x] [Exercise 3-1](./Exercises/E-01/exercise%203-1.ipynb)
-- [x] [Exercise 3-2](./Exercises/E-01/exercise%203-2.ipynb)
-- [x] [Exercise 3-3](./Exercises/E-01/exercise%203-3.ipynb)
+- [x] [Exercise 3-1](./Exercises/E-03/exercise%203-1.ipynb)
+- [x] [Exercise 3-2](./Exercises/E-03/exercise%203-2.ipynb)
+- [x] [Exercise 3-3](./Exercises/E-03/exercise%203-3.ipynb)
 
