@@ -6,6 +6,9 @@
 */.ipynb_checkpoints/*
 **/*.ipynb_checkpoints/
 
+# test file
+test.py
+
 # IPython
 profile_default/
 ipython_config.py
