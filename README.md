@@ -17,3 +17,7 @@ All solutions are now in jupyter format.
 - [x] [Exercise 3-2](./Exercises/E-03/exercise%203-2.ipynb)
 - [x] [Exercise 3-3](./Exercises/E-03/exercise%203-3.ipynb)
 
+## Chapter 4
+- [x] [Exercise 4-2](./Exercises/E-04/exercise%204-2.ipynb)
+- [x] [Exercise 4-3](./Exercises/E-04/exercise%204-3.ipynb)
+
