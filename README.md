@@ -28,3 +28,4 @@ All solutions are now in jupyter format.
 - [x] [Exercise 5-3](./Exercises/E-05/exercise_5-3.py)
 - [x] [Exercise 5-4](./Exercises/E-05/exercise_5-4.py)
 - [x] [Exercise 5-5](./Exercises/E-05/exercise_5-5.py)
+- [x] [Exercise 5-6](./Exercises/E-05/exercise_5-6.py)
