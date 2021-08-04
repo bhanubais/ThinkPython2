@@ -77,12 +77,8 @@ if __name__ == '__main__':
     bob = turtle.Turtle()
 
     # draw a circle centered on the origin
-    radius = 100
-    bob.pu()
-    bob.fd(radius)
-    bob.lt(90)
-    bob.pd()
-    circle(bob, radius)
+    # polyline(bob, 6, 50, 30)
+    arc(bob, 50, 180)
 
     # wait for the user to close the window
     turtle.mainloop()

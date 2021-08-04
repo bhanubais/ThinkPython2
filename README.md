@@ -20,4 +20,5 @@ All solutions are now in jupyter format.
 ## Chapter 4
 - [x] [Exercise 4-2](./Exercises/E-04/exercise%204-2.ipynb)
 - [x] [Exercise 4-3](./Exercises/E-04/exercise%204-3.ipynb)
+- [x] [Exercise 4-5](./Exercises/E-04/exercise%204-5.ipynb)
 
