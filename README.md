@@ -22,3 +22,5 @@ All solutions are now in jupyter format.
 - [x] [Exercise 4-3](./Exercises/E-04/exercise%204-3.ipynb)
 - [x] [Exercise 4-5](./Exercises/E-04/exercise%204-5.ipynb)
 
+## Chapter 5
+- [x] [Exercise 5-1](./Exercises/E-05/exercise_5-1.py)
