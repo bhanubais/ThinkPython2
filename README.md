@@ -25,4 +25,5 @@ All solutions are now in jupyter format.
 ## Chapter 5
 - [x] [Exercise 5-1](./Exercises/E-05/exercise_5-1.py)
 - [x] [Exercise 5-2](./Exercises/E-05/exercise_5-2.py)
-- [x] [Exercise 5-3](./Exercises/E-05/exercise_5-2.py)
+- [x] [Exercise 5-3](./Exercises/E-05/exercise_5-3.py)
+- [x] [Exercise 5-4](./Exercises/E-05/exercise_5-4.py)
